@@ -41,7 +41,7 @@ export const createCard = (data) => {
     } else if (role === "Intern") {
       third = `School: ${school}`;
     } else {
-      third = `GitHub: ${github}`;
+      third = `GitHub:  <a href="https://github.com/${github}" target="_blank"  >${github}</a>`;
     }
 
     Template += `<div class="card shadow-lg" style="width: 18rem">
