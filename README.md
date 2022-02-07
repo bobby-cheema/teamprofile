@@ -3,8 +3,9 @@
 # TeamProfile 
 
 ##  Description 
-this will generate an HTML file for your team. It will ask you questions on command line and use that info to create an HTML template.  
-
+this will generate an HTML file for your team. It will ask you questions on command line and use that info to create an HTML template. 
+![Screen Shot 2022-02-07 at 5 58 11 pm](https://user-images.githubusercontent.com/82983031/152739978-4adcbe4c-ef9c-44ff-bbcb-fc3fae280891.png)
+![Screen Shot 2022-02-07 at 6 00 30 pm](https://user-images.githubusercontent.com/82983031/152740060-ba869b7c-41f6-4397-947b-c9b9b9df380f.png)
 ---
 ###  Table of Content 
  * [install](#Install-Instructions)
